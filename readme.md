@@ -1,0 +1,3 @@
+# FargenBlog
+
+Welcome to FargenBlog!
